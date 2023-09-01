@@ -1,0 +1,4 @@
+Searching for test
+In file example.txt
+test 1234 asASAFSDFGD
+pero TeSt
